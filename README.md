@@ -22,3 +22,7 @@ Upon being verified, you will receive the "Verified" role which will optimally a
 **Group Connections**
   
 Connecting your Roblox group to the Discord server is done by using the command, `#connectgroup groupID`. After connecting the group, RoRanker will automatically add all of the groups ranks as roles and will update user roles whenever the `#updateroles` command is used. To disconnct a group, simply use `#disconnectgroup` and RoRanker will succesfully disconnct the currently connected group. To check what group the server is connected to, use `#connectedgroup` to show all group information.
+
+**Usage**
+  
+You can set custom prefixes for your user using `#prefix customprefix`. Any custom prefixes will be saved onto your account and using commands with the old prefix will not work. To view your current prefix, use "roranker prefix" to check.
